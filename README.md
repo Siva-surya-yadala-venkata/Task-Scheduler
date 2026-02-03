@@ -64,9 +64,5 @@ To send emails from your own account safely, you need a **Gmail App Password**.
 2.  Install dependencies: `npm install`.
 3.  Start dev server: `npm run dev`.
 
----
-
-## 💡 Developer Note for Interviewers
-This project was built to demonstrate **real-world integration challenges**—specifically handling complex OAuth flows, managing token persistence in MongoDB, and implementing a reliable background task scheduler. The inclusion of IndexedDB ensures high availability, while the granular SMTP configuration shows a deep understanding of secure mailing protocols.
-
+--
 **Happy Planning!** 🥂
